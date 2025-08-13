@@ -1,1 +1,0 @@
-"Other electronics junks records" 
