@@ -1,0 +1,7 @@
+1. the buck module output must be set to 4.4 vdc
+2. the atmega328 must be arduino uno boot loaded
+3. IRF3205 must be mounted with a common heat sink on both sides with the shape drawn on board
+4. SW, KEY and G.Sense pins are on-board jumper connectors
+5. BUZZER should be replaced with a black passive buzzer
+6. All exposed pads from the Battery 12V (-) must have solder on them
+7. BATTERY 12V (+ and -) terminal should be mounted with separate screw connectors for wire Logs

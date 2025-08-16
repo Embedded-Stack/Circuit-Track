@@ -1,0 +1,62 @@
+LABCENTER PROTEUS TOOL INFORMATION FILE
+=======================================
+
+In case of difficulty, please e-mail support@labcenter.co.uk
+
+Tool set up for Proteus layout 'Sanitizer.pdsprj'.
+CADCAM generated at 13:23:44 on 21 September 2020.
+
+File List
+---------
+Bottom Copper           : Sanitizer - CADCAM Bottom Copper.GBR
+Top Silk Screen         : Sanitizer - CADCAM Top Silk Screen.GBR
+Bottom Solder Resist    : Sanitizer - CADCAM Bottom Solder Resist.GBR
+Mechanical 1            : Sanitizer - CADCAM Mechanical 1.GBR
+Top Assembly            : Sanitizer - CADCAM Top Assembly.GBR
+Drill, Plated, 1-16     : Sanitizer - CADCAM Drill TOP-BOT Plated.GBR
+Netlist                 : Sanitizer - CADCAM Netlist.IPC
+
+Photoplotter Setup
+------------------
+Format: X2, ASCII, 4.3, metric, absolute, eob=*, LZO
+Notes:  D=Diameter, S=Side, W=Width, H=Height, C=Chamfer, I=Index
+
+D10	CIRCLE  D=1.016mm                                                         DRAW  Conductor
+D11	CIRCLE  D=0.381mm                                                         DRAW  Conductor
+D12	CIRCLE  D=0.254mm                                                         DRAW  Conductor
+D13	CIRCLE  D=0.508mm                                                         DRAW  Conductor
+D14	CIRCLE  D=2.032mm                                                         FLASH ComponentPad
+D15	CIRCLE  D=1.778mm                                                         FLASH ComponentPad
+D16	SQUARE  S=2.032mm                                                         FLASH ComponentPad
+D17	SQUARE  S=1.27mm                                                          FLASH ComponentPad
+D18	CIRCLE  D=1.27mm                                                          FLASH ComponentPad
+D19	CIRCLE  D=0.2032mm                                                        DRAW  Profile
+D70	CIRCLE  D=0.2032mm                                                        DRAW  Material
+D71	CIRCLE  D=2.286mm                                                         FLASH Material
+D20	CIRCLE  D=2.032mm                                                         FLASH Material
+D21	PPAD    W=2.286mm             H=2.286mm             I=0                   FLASH Material
+D22	PPAD    W=1.524mm             H=1.524mm             I=1                   FLASH Material
+D23	CIRCLE  D=1.524mm                                                         FLASH Material
+D24	CIRCLE  D=0.8128mm                                                        DRAW  Material
+D25	CIRCLE  D=0.31699mm                                                       DRAW  Material
+D26	CIRCLE  D=0.7112mm                                                        DRAW  Material
+D27	CIRCLE  D=0.16459mm                                                       DRAW  Material
+D28	CIRCLE  D=0.07112mm                                                       DRAW  Material
+D29	CIRCLE  D=0.508mm                                                         DRAW  Material
+D72	CIRCLE  D=0.5334mm                                                        DRAW  Material
+D73	CIRCLE  D=0.24079mm                                                       DRAW  Material
+D30	CIRCLE  D=0.10668mm                                                       DRAW  Material
+D31	CIRCLE  D=0.06519mm                                                       DRAW  Material
+D32	CIRCLE  D=0.07823mm                                                       DRAW  Material
+D33	CIRCLE  D=0.08805mm                                                       DRAW  Material
+D34	CIRCLE  D=0.762mm                                                         FLASH ComponentDrill
+D35	CIRCLE  D=1.016mm                                                         FLASH ComponentDrill
+
+Layer Stackup
+-------------
+Core                     : 1.6mm      FR4
+Bottom Copper            : 0.035mm    Copper
+Bottom Solder Resist     : 0.01016mm  Resist
+
+
+[END OF FILE]

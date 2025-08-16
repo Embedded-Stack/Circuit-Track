@@ -1,0 +1,36 @@
+# Writing all output to: C:\Users\ScienceStudent\Documents\Proteus\Disinfectant Booth\Disinfectant Booth.log
+Warning reading file on line 754!
+Undefined pin id for TANK 1-2
+Warning reading file on line 754!
+Undefined pin id for TANK 2-2
+Warning reading file on line 773!
+Undefined pin id for TANK 1-4
+Warning reading file on line 782!
+Undefined pin id for TANK 2-4
+Warning reading file on line 845!
+Undefined pin id for TANK 1-3
+Warning reading file on line 854!
+Undefined pin id for TANK 2-3
+Nets shorting at pin
+Nets shorting at pin
+Nets shorting at pin
+Nets shorting at pin
+set pad_wire_necking on
+bus diagonal
+fanout 5
+route 20
+clean 2
+route 20 16
+clean 2
+route 20 16
+clean 2
+route 20 16
+clean 2
+route 20 16
+clean 2
+route 20 16
+clean 2
+filter 5
+recorner diagonal
+status_file
+

@@ -1,0 +1,39 @@
+LABCENTER PROTEUS PICK AND PLACE FILE
+=====================================
+
+Component positions for SCHEDULER-UPDATE2.pdsprj
+
+Fields: Part ID, Value, Package, Stock Code, Layer, Rotation, X, Y
+Units:  Rotation - degrees, X, Y  - thou
+Notes:  The X, Y value is the centre of package as drawn in ARES.
+        The origin for these values is the Output Origin.
+        The values are a guide only and must be checked manually when
+        setting up automatic insertion equipment.
+
+"U1","ATMEGA328P","SPDIL28","",TOP,270,-866,1994
+"U2","7805","P1","",TOP,90,-678,2878
+"POWER","TBLOCK-I2","TBLOCK-I2","",TOP,0,-14,3043
+"D1","1N4007","DO41","",TOP,90,-310.65,2953
+"X1","CRYSTAL","XTAL18","",TOP,0,-1511,1461
+"C2","22p","CAP20","Maplin WX48C",TOP,0,-1511,1661
+"C1","22p","CAP20","Maplin WX48C",TOP,180,-1511,1261
+"U4","CRYSTAL","CRYSTAL","",TOP,270,-1160.02,898.606
+"U5","DS1302","DIL08","",TOP,270,-870.02,901.952
+"D6","1N4007","DO41","",TOP,90,-474.65,2953
+"J2","CONN-SIL4","CONN-SIL4","",TOP,180,-1585,1937
+"J1","USB - TTL","CONN-SIL5","",TOP,180,-1590,2888
+"D7","1N4007","DO41","",TOP,90,-1989,2433
+"Q1","2N4400","TO92","",TOP,0,-442,1475
+"R1","10k","RES40","M10K",TOP,270,-1275,2454
+"R2","1k","RES40","M1k",TOP,0,-855.68,1247
+"LOAD","SIL-100-02","SIL-100-02","",TOP,0,-868,439
+"RL1","RLY-SPCO","RLY-TEXTELL-A","",TOP,90,-151.78,2175.85
+"R3","10k","RES40","M10K",TOP,180,-1409,1161
+"R6","1k","RES40","M1k",TOP,90,-1120,2546
+"D5","LED","LED","",TOP,0,-1037,3166
+"R5","1k","RES40","M1k",TOP,90,-1202,2543
+"D4","LED","LED","",TOP,180,-1258,3164
+"J4","CONN-SIL1","CONN-SIL1","",BOT,0,-447,1053
+"USB","AU-Y1007-R","CON4_1X4_USB_B","Digikey AE9925-ND",TOP,0,-1468,597.417
+"J3","CONN-SIL1","CONN-SIL1","",TOP,0,-2047,1757
+"J5","CONN-SIL1","CONN-SIL1","",TOP,0,-1849,1757
